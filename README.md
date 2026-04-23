@@ -108,7 +108,7 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:junedbankapur@gmail.com">
+  <a href="mailto:junedab09@gmail.com">
   <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
 </a>
   <a href="https://www.linkedin.com/in/juned-bankapur/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
